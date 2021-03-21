@@ -56,7 +56,7 @@ Our user is someone on-the-go seeking advise. Our app will be a one-stop-shop th
 
 ### Group Roles:
 
-Semuel- mernAuth ;D ya
+Semuel- mernAuth ;D
 
 Erin- Visuals, site structuring
 
